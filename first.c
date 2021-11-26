@@ -25,7 +25,7 @@ int main()
 	printf("\nFeed the array plz ");
 	for(i=0;i<n;i++)
 	{
-		printf("\nElement  %d => ",i+1);
+		printf("\nElement № %d => ",i+1);
 		scanf("%d",&a[i]);
 	}
 	
